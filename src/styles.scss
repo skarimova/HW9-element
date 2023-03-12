@@ -1,1 +1,258 @@
-/* You can add global styles to this file, and also import other style files */
+#lawliet {
+  left: 20px;
+}
+
+.navbar {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: white;
+}
+
+.navbar li {
+  float: right;
+}
+
+.navbar li a {
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.information-page {
+  background-color: rgb(222, 226, 225);
+  border: none;
+  height: 500px;
+}
+
+.info-main {
+  position: absolute;
+  width: 600px;
+  left: 190px;
+  top: 100px;
+}
+
+.testimonials-page {
+  background-color: rgb(220, 248, 241);
+  border: none;
+  height: 550px;
+}
+
+.testimonial-main {
+  text-align: center;
+}
+
+h1 {
+  font-size: 70px;
+  color: #374094;
+}
+
+h2 {
+  font-size: 50px;
+}
+
+button {
+  background-color: #374094;
+  border: none;
+  border-radius: 5px;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 14px;
+}
+
+.terms-main {
+  position: absolute;
+  width: 400px;
+  left: 190px;
+  top: 750px;
+}
+
+.terms-page {
+  background-color: rgb(202, 230, 220);
+  border: none;
+  height: 720px;
+}
+
+.contact-page {
+  background-color: rgb(98, 104, 197);
+  border: none;
+  height: 400px;
+  color: white;
+}
+
+.end-page {
+  background-color: rgb(105, 112, 211);
+  border: none;
+  height: 30px;
+  color: white;
+}
+
+.cart {
+  width: 250px;
+  height: 250px;
+  background-color: white;
+  border-radius: 1vmax;
+  box-shadow: 0 0 10px 5px rgb(181, 208, 218);
+}
+
+.in-cart {
+  padding: 20px;
+}
+
+.test-cart {
+  width: 500px;
+  height: 275px;
+  background-color: white;
+  border-radius: 1vmax;
+  box-shadow: 0 0 10px 5px rgb(181, 208, 218);
+}
+
+.mini-cart {
+  width: 500px;
+  height: 275px;
+  border: none;
+}
+
+.contacts li {
+  list-style: none;
+  margin: 20px;
+}
+
+.third-ul {
+  position: absolute;
+  width: 200px;
+  height: 200px;
+  border: none;
+  right: 110px;
+  top: 1920px;
+}
+.second-ul {
+  position: absolute;
+  width: 200px;
+  height: 200px;
+  border: none;
+  right: 280px;
+  top: 1920px;
+}
+.first-ul {
+  position: absolute;
+  width: 200px;
+  height: 200px;
+  border: none;
+  right: 430px;
+  top: 1920px;
+}
+
+.imgs {
+  position: absolute;
+  right: 100px;
+}
+
+img {
+  width: 35px;
+  height: 35px;
+  margin-left: 10px;
+}
+
+#info-txt {
+  font-size: 20px;
+  color: rgb(126, 122, 143);
+}
+
+#main-txt {
+  color: rgb(46, 45, 45);
+}
+
+#txt {
+  color: grey;
+}
+
+#first {
+  position: absolute;
+  right: 500px;
+  top: 660px;
+}
+#second {
+  position: absolute;
+  right: 220px;
+  top: 660px;
+}
+#third {
+  position: absolute;
+  right: 500px;
+  top: 950px;
+}
+#fourth {
+  position: absolute;
+  right: 220px;
+  top: 950px;
+}
+
+#first-test {
+  position: absolute;
+  right: 720px;
+  top: 1460px;
+}
+#second-test {
+  position: absolute;
+  right: 170px;
+  top: 1460px;
+}
+
+#first-mini {
+  position: absolute;
+  right: 570px;
+  top: 1720px;
+}
+#second-mini {
+  position: absolute;
+  right: 20px;
+  top: 1720px;
+}
+
+.first-badge {
+  position: absolute;
+  right: 1060px;
+  top: 1760px;
+}
+.second-badge {
+  position: absolute;
+  right: 510px;
+  top: 1760px;
+}
+
+#badge{
+  width: 60px;
+  height: 60px;
+}
+
+#main-li {
+  font-weight: bold;
+}
+
+.girl {
+  position: absolute;
+  right: 150px;
+  top: 100px;
+}
+
+#first-img {
+  width: 440px;
+  height: 470px;
+}
+
+#test {
+  text-align: center;
+  margin: 10px;
+}
+
+#logo {
+  width: 90px;
+  height: 90px;
+}
